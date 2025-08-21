@@ -1,6 +1,5 @@
 ```
-
-     __  __     ____                         __
+    __  __     ____                         __
    / / / /__  / / /___     ____ _____  ____/ /
   / /_/ / _ \/ / / __ \   / __ `/ __ \/ __  / 
  / __  /  __/ / / /_/ /  / /_/ / / / / /_/ /  
@@ -10,7 +9,8 @@
 | |     / /__  / /________  ____ ___  ___     / /
 | | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \   / / 
 | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/  /_/  
-|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/  (_)    
+|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/  (_)
+ 
 ```                                                 
 
 
@@ -27,10 +27,11 @@ Currently enrolled in *CSC-134: C++ Programming*, learning the basics of coding 
 
 ## My Foo 🙌🏼
 - I love illustrating mystery and horror novels, and I'm currently making one of my own.
+- My longest obsession has been to collect rare crystals.
 
 ## Fun Fact 🧬
 - My favorite all-time singer is Kali Uchis. 
 - I love swimming.
 
 ## Find Me 📍
-- Right here on GitHub!
+- My email is guzmanga0111@student.faytechcc.edu.
