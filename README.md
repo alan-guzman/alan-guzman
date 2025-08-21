@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Alan 👋
+I am a pre-medical student attending Fayetteville Technical Community College. My goal is to obtain a bachelor's degree in Psychology and go to medical school for psychiatry. 
 
-<!--
-**alan-guzman/alan-guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🪼
+Currently enrolled in *CSC-134: C++ Programming*, learning the basics of coding as well as the fundamentals of using AI interactively.
 
-Here are some ideas to get you started:
+## Currently Learning 🧠
+- 🤖 How to operate GitHub
+- 🦾 Collaboration with AI assistants
+- ✍🏼 Problem solving through programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Foo 🙌🏼
+- I love illustrating mystery and horror novels, and I'm currently making one of my own.
+
+## Fun Fact 🧬
+- My favorite all-time singer is Kali Uchis. 
+- I love swimming.
+
+## Find Me 📍
+- Right here on GitHub!
