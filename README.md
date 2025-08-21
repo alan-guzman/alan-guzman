@@ -1,3 +1,19 @@
+```
+
+     __  __     ____                         __
+   / / / /__  / / /___     ____ _____  ____/ /
+  / /_/ / _ \/ / / __ \   / __ `/ __ \/ __  / 
+ / __  /  __/ / / /_/ /  / /_/ / / / / /_/ /  
+/_/ /_/\___/_/_/\____/   \__,_/_/ /_/\__,_/            
+                                              
+ _       __     __                             __
+| |     / /__  / /________  ____ ___  ___     / /
+| | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \   / / 
+| |/ |/ /  __/ / /__/ /_/ / / / / / /  __/  /_/  
+|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/  (_)    
+```                                                 
+
+
 ## Hi, I'm Alan 👋
 I am a pre-medical student attending Fayetteville Technical Community College. My goal is to obtain a bachelor's degree in Psychology and go to medical school for psychiatry. 
 
